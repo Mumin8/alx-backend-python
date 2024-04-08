@@ -192,3 +192,4 @@ class TestIntegrationGithubOrgClient(unittest.TestCase):
         """_summary_
         """
         cls.get_patcher.stop()
+        
